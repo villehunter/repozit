@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Program\\repository git hub\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\Program\\repository git hub\\repozit\\script\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\Program\\repository git hub\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "D:\\Program\\repository git hub\\repozit\\script\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\sfaky\\.nuget\\packages\\",
-      "outputPath": "D:\\Program\\repository git hub\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\Program\\repository git hub\\repozit\\script\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sfaky\\AppData\\Roaming\\NuGet\\NuGet.Config",
